@@ -31,7 +31,7 @@ namespace AllPrograms
         public void drive()
         {
             if(canDrive)
-            Console.WriteLine("car is driving");
+            Console.WriteLine("car is flying");
         }
         public void whatsTheColor()
         {
