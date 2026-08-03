@@ -13,6 +13,7 @@ namespace AllPrograms
             #region Week 1 CSharp 
 
             #region 0. Story Of DotNet
+            Console.WriteLine("Hello world!");
             //  https://docs.google.com/document/d/1-DZprzkR6VPIIdk3Ks_ti404GG7Kq5utHxpSeZY02Qw/edit
             #endregion
 
