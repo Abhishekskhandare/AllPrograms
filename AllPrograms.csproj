@@ -51,6 +51,7 @@
     <Compile Include="Programs\Inheritance\Car.cs" />
     <Compile Include="Programs\Inheritance\Vehicles.cs" />
     <Compile Include="Programs\Polymorphism\Calculator.cs" />
+    <Compile Include="Programs\String\StringExamples.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

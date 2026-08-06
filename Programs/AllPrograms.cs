@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using AllPrograms.Programs.Inheritance;
 using AllPrograms.Programs.Polymorphism;
+using AllPrograms.Programs.String;
 
 namespace AllPrograms
 {
@@ -136,10 +137,10 @@ namespace AllPrograms
 			#endregion
 
 			#region 6. String
-			// Refer doc for this topic
-			//Character escape sequences
-			//Verbatim string literal
-			//string interpolation
+			StringExamples examples = new StringExamples();
+			examples.EscapeSequenceExamples();
+			examples.VerbatimStringExamples();
+			examples.StringInterpolationExamples();
 			#endregion
 
 			#region 7. conditional Statements and Loops
@@ -230,19 +231,19 @@ namespace AllPrograms
 			// refer w3school
 			#endregion
 
-			#region 12.2 Static  
+			#region 15 Static  
 			// method overloading method overriding
 			#endregion
 
-			#region  ReadOnly Const this keyword base keyword
+			#region 16  ReadOnly Const this keyword base keyword
 
 			#endregion
 
-			#region 15. Properties & Encapsulation
+			#region 17. Properties & Encapsulation
 			// properties you will learn this in entity framework
 			#endregion
 
-			#region 13. Interface
+			#region 18. Interface
 			// use my docs to people understand
 			// rest we will learn while createing project in Dependency Injection
 			#endregion
