@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AllPrograms.Programs.Inheritance;
+using AllPrograms.Programs.Polymorphism;
 
 namespace AllPrograms
 {
@@ -14,7 +15,7 @@ namespace AllPrograms
             #region Week 1 CSharp 
 
             #region 0. Story Of DotNet
-            Console.WriteLine("Hello world!sfdgs");
+            Console.WriteLine("Hello world!");
 			//var s = Console.ReadLine();
 			//Console.WriteLine(s);
 
@@ -220,17 +221,30 @@ namespace AllPrograms
 
 			#endregion
 
-			#region 13. Interface
-			// use my docs to people understand
-			// rest we will learn while createing project
+			#region 13 Polymorphism 
+			//Calculator calculator = new Calculator();
+			// uncomment above line and go in depth of class ot understand method overloading and method overriding
 			#endregion
 
 			#region 14. Access specifier/ Modifier
 			// refer w3school
 			#endregion
 
-			#region 15. Properties
+			#region 12.2 Static  
+			// method overloading method overriding
+			#endregion
+
+			#region  ReadOnly Const this keyword base keyword
+
+			#endregion
+
+			#region 15. Properties & Encapsulation
 			// properties you will learn this in entity framework
+			#endregion
+
+			#region 13. Interface
+			// use my docs to people understand
+			// rest we will learn while createing project in Dependency Injection
 			#endregion
 
 		}
